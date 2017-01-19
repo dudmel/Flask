@@ -1,0 +1,8 @@
+{
+  "data": {
+    "maxAirFrequency": 5845,
+    "maxChipFrequency": 6050,
+    "minAirFrequency": 5730,
+    "minChipFrequency": 4900
+  }
+}

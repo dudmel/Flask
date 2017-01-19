@@ -1,0 +1,22 @@
+{
+	"hsuLinkState": { "object": 36608, "attr": 1172, "index": 0 },
+	"hsuAirState": { "object": 36608, "attr": 1171, "index": 0 },
+	"hsuRss": { "object": 36608, "attr": 1307, "index": 0 },
+	"hsuTput": { "object": 41728, "attr": 1208, "index": 0 },
+	"upTime": { "object": 8960, "attr": 535, "index": 0 },
+	"activeAlarmsCounter": { "object": 9728, "attr": 1935, "index": 0 },
+	"realTimeAndDate": { "object": 39168, "attr": 792, "index": 0 },
+	"hsuCompressedMonitor": { "object": 2560, "attr": 1744, "index": 0 },
+    "hbsCompressedMonitor": { "object": 36608, "attr": 1222, "index": 0 },
+	"configMonitor": {
+		"currentTxPower": { "object": 36864, "attr": 645, "index": 1 },
+		"totalTxPower": { "object": 36864, "attr": 967, "index": 1 },
+		"maxEirp": { "object": 36864, "attr": 1402, "index": 1 },
+		"wifiApStatus": { "object": 47360, "attr": 1693, "index": 0 },
+		"wifiRssiTable": [
+		  {
+			"rssiAndMac": { "object": 47360, "attr": 1924, "index": 0 }
+		  }
+		]
+	}
+}

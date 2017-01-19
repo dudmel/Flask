@@ -1,0 +1,22 @@
+{
+  "data": {
+    "ipParams": { 
+      "hsuDefaultGateway": "10.0.0.1",
+      "hsuIp": "10.0.0.120",
+      "hsuSubnetMask": "255.255.255.0"
+    },
+    "crcErrors": 10,
+    "currentPortState": "100Mbps/Full Duplex",
+    "desiredPortState": "10Mbps/Full Duplex",
+    "vlanId": 45,
+    "vlanPriority": 7,
+    "availablePortStates": [
+      "10Mbps/Half Duplex",
+      "100Mbps/Half Duplex",
+      "10Mbps/Full Duplex",
+      "100Mbps/Full Duplex",
+      "Auto Detect",
+      "Disable"
+    ]
+  }
+}

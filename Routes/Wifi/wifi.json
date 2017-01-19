@@ -1,0 +1,14 @@
+{
+  "wifiMode":     { "object": 2560, "attr": 1578, "index": 0 },
+  "wifiChannel":  { "object": 47360, "attr": 1683, "index": 0 },
+  "wifiTxPower": { "object": 47360, "attr": 1685, "index": 0 },
+  "wifiMaxTxPower": { "object": 47360, "attr": 1922, "index": 0 },
+  "wifiSSID":     { "object": 47360, "attr": 1686, "index": 0 },
+  "wifiSecurityType": { "object": 47360, "attr": 1687, "index": 0 },
+  "wifiPassword":     { "object": 47360, "attr": 1688, "index": 0 },
+  "wifiNetwork":      { "object": 47360, "attr": 1689, "index": 0 },
+  "wifiModes": [
+    "Auto",
+    "Disabled"
+  ]
+}

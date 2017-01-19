@@ -1,0 +1,24 @@
+{
+  "swVersion":    { "object": 2560, "attr": 194, "index": 0 },
+  "hwVersion":    { "object": 2560, "attr": 195, "index": 0 },
+  "radioRev":     { "object": 2560, "attr": 1842, "index": 0 },
+  "macAddress":   { "object": 2560, "attr": 196, "index": 0 },
+  "serialNumber": { "object": 2560, "attr": 964, "index": 0 },
+  "aggCapacity":  { "object": 36352, "attr": 1500, "index": 0 },
+  "product":      { "object": 36608, "attr": 870, "index": 0 },
+  "sectorId":	{ "object": 36608, "attr": 1253, "index": 0 },
+  "upTime":		{ "object": 8960, "attr": 535, "index": 0 },
+  "latitude":     { "object": 40960, "attr": 1109, "index": 0 },
+  "longitude":    { "object": 40960, "attr": 1111, "index": 0 },
+  "altitude":     { "object": 40960, "attr": 1147, "index": 0 },
+  "ntpServer":    { "object": 39168, "attr": 788, "index": 0 },
+  "ntpTimeOffsetFromUTC":    { "object": 39168, "attr": 789, "index": 0 },
+  "hsu": {
+    "hsuName":      { "object": 8960, "attr": 537, "index": 0 },
+    "hsuLocation":  { "object": 8960, "attr": 538, "index": 0 },
+    "hsuContact":   { "object": 8960, "attr": 536, "index": 0 }
+  },
+  "hbs": {
+    "hbsCompressedStatic": { "object": 36608, "attr": 1226, "index": 0 }
+  }
+}

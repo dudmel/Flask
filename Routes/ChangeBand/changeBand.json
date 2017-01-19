@@ -1,0 +1,10 @@
+{ 
+	"currentBandId": { "object": 39936, "attr": 993, "index": 0, "value": "" },
+	"bandsList":
+				[
+				  {
+					"bandId":                 { "object": 39936, "attr": 987,  "index": 1, "value": "" },
+					"description":            { "object": 39936, "attr": 1304, "index": 1, "value": "" }
+				  }																					   
+				]
+}

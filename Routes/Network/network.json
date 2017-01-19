@@ -1,0 +1,22 @@
+{
+  "ipParams": { 
+	"hsuIp":              { "object": 2560, "attr": 185, "index": 0 },
+	"hsuSubnetMask":      { "object": 2560, "attr": 186, "index": 0 },
+	"hsuDefaultGateway":  { "object": 2560, "attr": 187, "index": 0 }
+  },
+  "currentPortState":   { "object": 36352, "attr": 713, "index": 1 },
+  "desiredPortState":   { "object": 36352, "attr": 714, "index": 1 },
+  "vlanId":             { "object": 36352, "attr": 890, "index": 0 },
+  "vlanPriority":       { "object": 36352, "attr": 891, "index": 0 },
+  "crcErrors":          { "object": 8960, "attr": 907, "index": 1 },
+  "availablePortStates": [
+	"10Mbps/Half Duplex",
+	"100Mbps/Half Duplex",
+	"10Mbps/Full Duplex",
+	"100Mbps/Full Duplex",
+	"Auto (100 Mbps)",
+	"Auto Detect",
+	"Disable"
+  ]
+
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "antennaConnectionType": "External",
+    "antennaGain": 15,
+    "antennaType": "Single",
+    "cableLoss": 0,
+    "currentBand": "5.730-5.845 GHz FCC/IC",
+    "currentCbw": 20,
+    "currentFrequency": "5.73 [GHz]",
+    "desiredTxPower": 19,
+    "hsuAirState": "Transceiving",
+    "maxAntennaGain": 28,
+    "maxEirp": 55,
+    "maxTxPower": 25,
+    "minAntennaGain": 15,
+    "minTxPower": -8,
+    "hsuType": "Stationary",
+    "mobilityLevel": 3,
+    "options": {
+      "antennaTypeList": [
+        "Dual",
+        "Extrenal"
+      ],
+      "cbwList": [
+        5,
+        10,
+        20,
+        40
+      ]
+    },
+    "sectorId": "Ohad_Ulc_Lab",
+    "totalTxPower": 22
+  }
+}

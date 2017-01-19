@@ -1,0 +1,10 @@
+[
+  {
+	"severity":       { "object": 9728, "attr": 757, "index": 1},
+	"alarmId":        { "object": 9728, "attr": 758, "index": 1},
+	"interfaceName":  { "object": 9728, "attr": 759, "index": 1},
+    "alarmTrapId":    { "object": 9728, "attr": 761, "index": 1},
+    "dateAndTime":    { "object": 9728, "attr": 762, "index": 1},
+    "alarmText":      { "object": 9728, "attr": 763, "index": 1}   
+  }
+]

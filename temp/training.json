@@ -1,0 +1,61 @@
+{
+    "HBS": [
+        {
+            "bestRSS": -60, 
+            "sectorDirection": 180, 
+            "availableResourcesUL": 90, 
+            "longitude": 32.321, 
+            "channelBw": 20, 
+            "DownLink": 250000, 
+            "sectorIdMatched": true, 
+            "bestEffortEnabled": true, 
+            "UpLink": 220000, 
+            "availableResourcesDL": 90, 
+            "latitude": 34.564321, 
+            "FineElevation": 3, 
+            "cursorLocation": {
+                "horizontal": 30, 
+                "elevation": 2
+            }, 
+            "FineHorizontal": 32, 
+            "antennaBeamwidth": 90, 
+            "sectorType": "Gen4", 
+            "sectorID": "PRIMARY_SECTOR", 
+            "channel": 5800, 
+            "FineBestRss": -58
+        }, 
+        {
+            "bestRSS": -65, 
+            "sectorDirection": 180, 
+            "availableResourcesUL": 90, 
+            "longitude": 32.321, 
+            "channelBw": 20, 
+            "DownLink": 280000, 
+            "sectorIdMatched": true, 
+            "bestEffortEnabled": true, 
+            "UpLink": 261000, 
+            "availableResourcesDL": 90, 
+            "latitude": 34.564321, 
+            "FineElevation": 2, 
+            "cursorLocation": {
+                "horizontal": -20, 
+                "elevation": 3
+            }, 
+            "FineHorizontal": -22, 
+            "antennaBeamwidth": 90, 
+            "sectorType": "Gen4", 
+            "sectorID": "SLAVE_SECTOR_1", 
+            "channel": 5750, 
+            "FineBestRss": -68
+        }
+    ], 
+    "HSU": {
+        "hsuServiceType": "New Fixed", 
+        "radiusInstallConfirmationRequired": "false", 
+        "numOfElevationZones": 3, 
+        "hsuLinkState": "Active", 
+        "azimutBeamwidth": 15, 
+        "elevationBeamwidth": 20, 
+        "hsuId": 1
+    }
+}

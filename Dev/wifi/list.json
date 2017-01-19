@@ -1,0 +1,38 @@
+{
+  "data": {
+    "wifiApStatus": "Off",
+    "wifiChannel": 6,
+    "wifiMode": "Auto",
+    "wifiNetwork": "192.168.1.1",
+    "wifiSSID": "scb4884341",
+    "wifiSecurityType": "Wpa2",
+    "wifiTxPower": 15,
+    "wifiMaxTxPower": 15,
+    "wifiModes": [
+      "Disabled",
+      "Auto"
+    ],
+    "wifiRssiTable": [
+      {
+        "mac": "00:15:67:0b:0c:31",
+        "rssi": "55"
+      },
+      {
+        "mac": "00:15:67:0b:0c:32",
+        "rssi": "55"
+      },
+      {
+        "mac": "00:15:67:0b:0c:33",
+        "rssi": "55"
+      },
+      {
+        "mac": "00:15:67:0b:0c:34",
+        "rssi": "55"
+      },
+      {
+        "mac": "00:15:67:0b:0c:35",
+        "rssi": "55"
+      }
+    ]
+  }
+}

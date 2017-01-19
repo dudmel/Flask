@@ -1,0 +1,47 @@
+{
+	"data": {
+		"hbsLan1RxMbps": 50,
+		"hbsLan1TxMbps": 50,
+		"hbsRss": -60,
+		"hbsTput": 67,
+		"hsuLan1RxMbps": 10,
+		"hsuLan1TxMbps": 10,
+		"hsuLan1RxFps": 1230,
+		"hsuLan1TxFps": 39245,
+		"hsuLinkState": "Active",
+		"hsuAirState": "Active",
+		"hsuRss": -50,
+		"hsuTput": 80,
+		"upTime": 50000,
+		"realTimeAndDate": "2005-09-05T03:14:13",
+		"activeAlarmsCounter": 5,
+		"configMonitor": {
+			"currentTxPower": 22,
+			"maxEirp": 48,
+			"totalTxPower": 28,
+			"wifiApStatus": "Off",
+			"wifiRssiTable": [
+			  {
+				"mac": "00:15:67:0b:0c:31",
+				"rssi": "53"
+			  },
+			  {
+				"mac": "00:15:67:0b:0c:32",
+				"rssi": "55"
+			  },
+			  {
+				"mac": "00:15:67:0b:0c:33",
+				"rssi": "55"
+			  },
+			  {
+				"mac": "00:15:67:0b:0c:34",
+				"rssi": "55"
+			  },
+			  {
+				"mac": "00:15:67:0b:0c:35",
+				"rssi": "52"
+			  }
+			]
+		}
+	}
+}

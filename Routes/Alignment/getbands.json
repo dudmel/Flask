@@ -1,0 +1,21 @@
+{ 
+    "currentBandId": { "object": 39936, "attr": 993, "index": 0, "value": "" },
+    "currentCbw":    { "object": 36864, "attr": 803, "index": 0, "value": "" },
+    "bandsList":
+                [
+                  {
+                    "bandId":          { "object": 39936, "attr": 987,  "index": 1, "value": "" },
+                    "bandDescription": { "object": 39936, "attr": 1304, "index": 1, "value": "" },
+                    "bandMinFreq":     { "object": 39936, "attr": 1440, "index": 1, "value": "" },
+                    "bandMaxFreq":     { "object": 39936, "attr": 1441, "index": 1, "value": "" },
+                    "bandResolution":  { "object": 39936, "attr": 1446, "index": 1, "value": "" },
+                    "channelBW5Freq":  { "object": 39936, "attr": 1434, "index": 1, "value": "" },
+                    "channelBW7Freq":  { "object": 39936, "attr": 1872, "index": 1, "value": "" },
+                    "channelBW10Freq": { "object": 39936, "attr": 1435, "index": 1, "value": "" },
+                    "channelBW14Freq": { "object": 39936, "attr": 1873, "index": 1, "value": "" },
+                    "channelBW20Freq": { "object": 39936, "attr": 1436, "index": 1, "value": "" },
+                    "channelBW40Freq": { "object": 39936, "attr": 1437, "index": 1, "value": "" },
+                    "channelBW80Freq": { "object": 39936, "attr": 1677, "index": 1, "value": "" }
+                  }
+                ]
+}

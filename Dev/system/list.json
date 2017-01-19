@@ -1,0 +1,25 @@
+{
+	"data": {
+		"aggCapacity": "400",
+		"altitude": "",
+		"hbs": {},
+		"hsu": {
+			"hsuContact": "UlcDakota2",
+			"hsuLocation": "Location21",
+			"hsuName": "dudu_ulc22"
+		},
+		"hwVersion": "956301325",
+		"latitude": "32.252",
+		"longitude": "32.312",
+		"macAddress": "0015670b0c31",
+		"ntpServer": "",
+		"product": "RW5000/HSU/5550/F58/FCC/EXT - RW-5550-0250",
+		"sectorId": "Ohad_Ulc_Lab",
+		"serialNumber": "123456",
+		"swVersion": "4.2.20_b1111_Jul 13 2016",
+		"upTime": "0",
+		"ntpServer": "192.168.2.1",
+		"ntpTimeOffsetFromUTC": 20,
+		"upTime": 16501300
+	}
+}

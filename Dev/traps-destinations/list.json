@@ -1,0 +1,90 @@
+{
+  "data": [
+      {
+        "hostIndex": 1,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162
+      },
+      {
+        "hostIndex": 2,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 3,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 4,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 5,
+        "hostIp": "10.0.0.121",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 6,
+        "hostIp": "10.0.0.122",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 7,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 8,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 9,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      },
+      {
+        "hostIndex": 10,
+        "hostIp": "10.0.0.120",
+        "hostPort": 162,
+        "securityModel": "SNMPv1",
+        "userName": "",
+        "password": "*******",
+        "hostIpv6": "::"
+      }
+    ]
+}

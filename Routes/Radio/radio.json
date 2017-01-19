@@ -1,0 +1,25 @@
+{
+  "sectorId": { "object": 36608, "attr": 1253, "index": 1 },
+  "currentFrequency": { "object": 36864, "attr": 679, "index": 1 },
+  "currentBand": { "object": 36608, "attr": 988, "index": 1 },
+  "currentCbw": { "object": 36864, "attr": 803, "index": 1 },
+  "desiredTxPower": { "object": 36864, "attr": 590, "index": 1 },
+  "minTxPower": { "object": 36864, "attr": 797, "index": 1 },
+  "maxTxPower": { "object": 36864, "attr": 800, "index": 200 },
+  "antennaGain": { "object": 36864, "attr": 918, "index": 1 },
+  "minAntennaGain": { "object": 36864, "attr": 921, "index": 1 },
+  "maxAntennaGain": { "object": 36864, "attr": 920, "index": 1 },
+  "antennaType": { "object": 36864, "attr": 903, "index": 1 },
+  "antennaConnectionType": { "object": 36864, "attr": 1237, "index": 1 },
+  "cableLoss": { "object": 36864, "attr": 919, "index": 1 },
+  "hsuType": { "object": 36864, "attr": 1384, "index": 1 },
+  "mobilityLevel": { "object": 36864, "attr": 1385, "index": 1 },
+  "geoLocation": { "object": 36608, "attr": 1391, "index": 1 },
+  "options": {
+    "antennaTypeList": [
+      "Dual",
+      "Extrenal"
+    ],
+    "cbwList": []
+  }
+}

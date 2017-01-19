@@ -1,0 +1,10 @@
+[
+  {
+	"hsuId": { "object": 36608, "attr": 1173, "index": 0, "value": "" },
+    "hsuLinkState": { "object": 36608, "attr":  1172, "index": 0, "value": "" },
+    "hsuServiceType": { "object": 36864, "attr": 1384, "index": 0, "value": "" },
+    "azimutBeamwidth": { "object": 36864, "attr": 1916, "index": 0, "value": "" },
+    "elevationBeamwidth": { "object": 36864, "attr": 1918, "index": 0, "value": "" },
+	"radiusInstallConfirmationRequired": { "object": 36608, "attr": 1841, "index": 0, "value": "" }
+  }
+]

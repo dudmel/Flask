@@ -1,0 +1,12 @@
+[
+  {
+    "spectrumChannelFrequncy":  { "object": 36864, "attr": 1028, "index": 0 },
+    "spectrumChannelScanned":   { "object": 36864, "attr": 1029, "index": 0 },
+    "currentAntennaA":          { "object": 36864, "attr": 1031, "index": 0 },
+    "currentAntennaB":          { "object": 36864, "attr": 1032, "index": 0 },
+    "averageAntennaA":          { "object": 36864, "attr": 1033, "index": 0 },
+    "averageAntennaB":          { "object": 36864, "attr": 1034, "index": 0 },
+    "maxAntennaA":              { "object": 36864, "attr": 1035, "index": 0 },
+    "maxAntennaB":              { "object": 36864, "attr": 1036, "index": 0 }
+  }
+]

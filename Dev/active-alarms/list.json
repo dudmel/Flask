@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "eventIndex": 1,
+      "severity": "Normal",
+      "dateAndTime": "01/26/2016 10:03:11",
+      "description": "LAN1 port status changed to connected - 100Mbps/Full Duplex",
+      "interfaceName": "Management Port on Odu"
+    },
+    {
+      "eventIndex": 2,
+      "severity": "Info",
+      "dateAndTime": "01/26/2016 10:03:11",
+      "description": "The time was set to: TUE JAN 26 10:03:11 2016",
+      "interfaceName": "Management Port on Odu"
+    },
+    {
+      "eventIndex": 3,
+      "severity": "Minor",
+      "dateAndTime": "01/26/2016 10:03:11",
+      "description": "HSU ready",
+      "interfaceName": "Management Port on Odu"
+    },
+    {
+      "eventIndex": 4,
+      "severity": "Critical",
+      "dateAndTime": "01/26/2016 17:01:17",
+      "description": "HSU is out of sync. The reason is: Device reset",
+      "interfaceName": "Radio Interface"
+    },
+    {
+      "eventIndex": 5,
+      "severity": "Major",
+      "dateAndTime": "01/26/2016 17:01:17",
+      "description": "Ethernet Service closed",
+      "interfaceName": "Radio Interface"
+    }
+  ]
+}

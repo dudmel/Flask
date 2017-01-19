@@ -1,0 +1,343 @@
+{
+    "monitor": {
+        "upTime": "78900", 
+        "atpcNumberOfLoweredDbs": 0, 
+        "hsuAirState": "Spectrum Analysis", 
+        "installConfirmRequired": false, 
+        "hbsTput": 107000000, 
+        "hbsLan1TxMbps": 12.5, 
+        "hbsRss": -59, 
+        "hsuLinkState": "Not Synchronized", 
+        "realTimeAndDate": "2005-09-01T00:12:38", 
+        "atpcRequiredRateAchieved": "True", 
+        "hsuLan1TxMbps": 0.1, 
+        "hbsLan1RxMbps": 12.6, 
+        "hsuLan1RxFps": 1994, 
+        "hsuRss": "-120", 
+        "activeAlarmsCounter": 2, 
+        "configMonitor": {
+            "currentTxPower": "1", 
+            "totalTxPower": 4, 
+            "wifiRssiTable": [
+                {
+                    "rssi": "0", 
+                    "mac": "00:00:00:00:00:00"
+                }, 
+                {
+                    "rssi": "0", 
+                    "mac": "00:00:00:00:00:00"
+                }, 
+                {
+                    "rssi": "0", 
+                    "mac": "00:00:00:00:00:00"
+                }, 
+                {
+                    "rssi": "0", 
+                    "mac": "00:00:00:00:00:00"
+                }, 
+                {
+                    "rssi": "0", 
+                    "mac": "00:00:00:00:00:00"
+                }
+            ], 
+            "wifiApStatus": "On", 
+            "maxEirp": 41
+        }, 
+        "atpcStstus": "Off", 
+        "atpcSupported": "True", 
+        "hsuTput": 0, 
+        "hsuLan1TxFps": 136, 
+        "hsuLan1RxMbps": 12.7
+    }, 
+    "wifi": {
+        "wifiModes": [
+            "Auto", 
+            "Disabled"
+        ], 
+        "wifiMaxTxPower": "17", 
+        "wifiChannel": 1, 
+        "wifiNetwork": "192.168.10.100", 
+        "wifiTxPower": "1", 
+        "wifiMode": "Auto", 
+        "wifiSecurityType": "Wpa2", 
+        "wifiSSID": "R-U00010U100A00060"
+    }, 
+    "traps-destinations": [
+        {
+            "hostIndex": "1", 
+            "hostIp": "10.0.0.11", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "2", 
+            "hostIp": "10.0.0.200", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "3", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "4", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "5", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "6", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "7", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "8", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "9", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }, 
+        {
+            "hostIndex": "10", 
+            "hostIp": "0.0.0.0", 
+            "hostPort": "162"
+        }
+    ], 
+    "system": {
+        "macAddress": "001567dfcdfd", 
+        "product": "RW5000/SU-Pro/5500/F58/FCC/INT - RW-5500-0P58", 
+        "swVersion": "4.9.00_b0014_Dec 20 2016", 
+        "altitude": "N/A", 
+        "serialNumber": "U00010U100A00060", 
+        "radioRev": "1", 
+        "upTime": "79500", 
+        "longitude": "N/A", 
+        "ntpTimeOffsetFromUTC": "0", 
+        "aggCapacity": "107", 
+        "hsu": {
+            "hsuName": "1111111", 
+            "hsuLocation": "222222222", 
+            "hsuContact": "3333333333"
+        }, 
+        "latitude": "N/A", 
+        "ntpServer": "10.0.0.11", 
+        "hwVersion": "110U", 
+        "sectorId": "setup yp", 
+        "hbs": {
+            "hbsSubnetMask": "255.255.255.0", 
+            "hbsAntennaType": "Dual", 
+            "hbsIp": "10.103.48.10", 
+            "hbsLocation": "Location1", 
+            "hbsName": "Name1", 
+            "hbsAgentVersion": "3170"
+        }
+    }, 
+    "recent-events": [
+        {
+            "severity": "Normal", 
+            "interfaceName": "", 
+            "description": "HSU ready", 
+            "eventIndex": "1", 
+            "dateAndTime": "22/12/2016 15:48:26"
+        }, 
+        {
+            "severity": "Info", 
+            "interfaceName": "Radio Interface", 
+            "description": "Channel scanning in progress", 
+            "eventIndex": "2", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Info", 
+            "interfaceName": "", 
+            "description": "Wifi is enabled", 
+            "eventIndex": "3", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "Radio Link - Sync on Channel Bandwidth 20 MHz", 
+            "eventIndex": "4", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "Encryption Status - Normal", 
+            "eventIndex": "5", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "HSU is synchronized", 
+            "eventIndex": "6", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "Software versions compatible ", 
+            "eventIndex": "7", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "", 
+            "description": "Ethernet Service has been opened", 
+            "eventIndex": "8", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Info", 
+            "interfaceName": "", 
+            "description": "The time was set to: Thu Sep  1 00:00:04 2005", 
+            "eventIndex": "9", 
+            "dateAndTime": "22/12/2016 15:48:27"
+        }, 
+        {
+            "severity": "Major", 
+            "interfaceName": "", 
+            "description": "Ethernet Service closed", 
+            "eventIndex": "10", 
+            "dateAndTime": "22/12/2016 15:56:08"
+        }, 
+        {
+            "severity": "Critical", 
+            "interfaceName": "Radio Interface", 
+            "description": "HSU is out of sync. The reason is: Spectrum analysis", 
+            "eventIndex": "11", 
+            "dateAndTime": "22/12/2016 15:56:08"
+        }, 
+        {
+            "severity": "Info", 
+            "interfaceName": "Radio Interface", 
+            "description": "Spectrum analysis in progress", 
+            "eventIndex": "12", 
+            "dateAndTime": "22/12/2016 15:56:09"
+        }, 
+        {
+            "severity": "Info", 
+            "interfaceName": "Radio Interface", 
+            "description": "Channel scanning in progress", 
+            "eventIndex": "13", 
+            "dateAndTime": "22/12/2016 15:57:08"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "Radio Link - Sync on Channel Bandwidth 20 MHz", 
+            "eventIndex": "14", 
+            "dateAndTime": "22/12/2016 15:57:09"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "Encryption Status - Normal", 
+            "eventIndex": "15", 
+            "dateAndTime": "22/12/2016 15:57:09"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "HSU is synchronized", 
+            "eventIndex": "16", 
+            "dateAndTime": "22/12/2016 15:57:09"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "Radio Interface", 
+            "description": "Software versions compatible ", 
+            "eventIndex": "17", 
+            "dateAndTime": "22/12/2016 15:57:09"
+        }, 
+        {
+            "severity": "Normal", 
+            "interfaceName": "", 
+            "description": "Ethernet Service has been opened", 
+            "eventIndex": "18", 
+            "dateAndTime": "22/12/2016 15:57:09"
+        }, 
+        {
+            "severity": "Major", 
+            "interfaceName": "", 
+            "description": "Ethernet Service closed", 
+            "eventIndex": "19", 
+            "dateAndTime": "22/12/2016 16:00:13"
+        }, 
+        {
+            "severity": "Critical", 
+            "interfaceName": "Radio Interface", 
+            "description": "HSU is out of sync. The reason is: Spectrum analysis", 
+            "eventIndex": "20", 
+            "dateAndTime": "22/12/2016 16:00:13"
+        }, 
+        {
+            "severity": "Info", 
+            "interfaceName": "Radio Interface", 
+            "description": "Spectrum analysis in progress", 
+            "eventIndex": "21", 
+            "dateAndTime": "22/12/2016 16:00:13"
+        }
+    ], 
+    "radio": {
+        "hsuType": "New Fixed", 
+        "antennaType": "Dual", 
+        "cableLoss": 0, 
+        "minAntennaGain": 15, 
+        "desiredTxPower": 1, 
+        "currentCbw": "Auto(20/40/80)", 
+        "antennaGain": 16, 
+        "options": {
+            "cbwList": [
+                "10", 
+                "Auto(20/40/80)"
+            ], 
+            "antennaTypeList": [
+                "Dual", 
+                "Extrenal"
+            ]
+        }, 
+        "minTxPower": 0, 
+        "maxAntennaGain": 28, 
+        "currentBand": "5.730-5.845 GHz FCC/IC", 
+        "mobilityLevel": "1", 
+        "maxTxPower": 22, 
+        "antennaConnectionType": "External", 
+        "sectorId": "setup yp", 
+        "currentFrequency": "5.775 [GHz]"
+    }, 
+    "network": {
+        "ipParams": {
+            "hsuIp": "10.0.0.159", 
+            "hsuSubnetMask": "255.255.255.0", 
+            "hsuDefaultGateway": "10.0.0.200"
+        }, 
+        "vlanPriority": 0, 
+        "crcErrors": 0, 
+        "vlanId": 0, 
+        "availablePortStates": [
+            "10Mbps/Half Duplex", 
+            "100Mbps/Half Duplex", 
+            "10Mbps/Full Duplex", 
+            "100Mbps/Full Duplex", 
+            "Auto (100 Mbps)", 
+            "Auto Detect", 
+            "Disable"
+        ], 
+        "currentPortState": "100Mbps/Full Duplex", 
+        "desiredPortState": "Auto Detect"
+    }
+}

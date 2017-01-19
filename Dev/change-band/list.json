@@ -1,0 +1,27 @@
+{
+  "data": {
+    "bandsList": [
+      {
+        "bandId": "5KJ/F58/SU/FCC/INT/BSA",
+        "description": "5.730-5.845 GHz FCC/IC"
+      },
+      {
+        "bandId": "BAND5KJ/F52/FCC/INT/BSA",
+        "description": "5.255-5.345 GHz FCC/IC"
+      },
+      {
+        "bandId": "BAND5KJ/F54/FCC/INT/BSA",
+        "description": "5.480-5.715 GHz FCC/IC"
+      },
+      {
+        "bandId": "BAND5KJ/F54/UNI/INT/BSA",
+        "description": "5.475-5.720 GHz Universal"
+      },
+      {
+        "bandId": "BAND5KJ/F51/UNI/INT/BSA",
+        "description": "5.150-5.335 GHz Universal"
+      }
+    ],
+    "currentBandId": "BAND5KJ/F52/FCC/INT/BSA"
+  }
+}
